@@ -101,7 +101,7 @@ function mint(wallet) {
 
 function main() {
   const price = 0.5
-  const wallet = "0x877eb216493179983faC023851Bf3c45306Db7E9"
+  const wallet = "0x7C9466D359Bf266f335B78a0A4b50998E0f77567"
 
   changeQuantity(price)
   mint(wallet)
